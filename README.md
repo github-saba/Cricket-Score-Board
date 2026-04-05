@@ -11,7 +11,11 @@ A simple **React front-end app** to keep track of a cricket match score.
 
 ## Technologies Used
 
-- React.js (Functional Components + Hooks: useState, useEffect)  
+- React.js (Functional Components + Hooks: useState, useEffect)
+
+## Screenshot of the Application
+
+![CricSB](CricketScoreBoard.png)
 
 ## How to Run
 
